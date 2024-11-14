@@ -11,15 +11,15 @@ public class NumerosAleatorios {
 
         numeros[0] = aleatorio.nextInt(101);
         int menorNumero = numeros[0];
-        int maiorValor = numeros[0];
+        int maiorNumero = numeros[0];
 
 
         for (int i = 1; i < 10; i++){
             numeros[i] = aleatorio.nextInt(101);
 
-            if (numeros[i] > maiorValor){
+            if (numeros[i] > maiorNumero){
 
-                maiorValor = numeros[i];
+                maiorNumero = numeros[i];
             }
 
             if (numeros[i] < menorNumero){
@@ -42,7 +42,7 @@ public class NumerosAleatorios {
             }
         }
 
-        System.out.println("\nmaior: " + maiorValor + " | menor: " + menorNumero);
+        System.out.println("\nMaior numero da lista: " + maiorNumero + " |  Menor numero da lista: " + menorNumero);
 
         }
     }
