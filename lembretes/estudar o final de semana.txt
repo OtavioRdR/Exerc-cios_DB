@@ -1,0 +1,44 @@
+Tópicos para Estudo sobre Matrizes em Java
+------------------------------------------
+
+1. Importação de Bibliotecas:
+   - Entenda a importância da importação de bibliotecas como Scanner para ler entradas do usuário.
+
+2. Declaração de Classes e Métodos:
+   - Revise como declarar uma classe pública e o método main em Java.
+
+3. Leitura de Entradas do Usuário:
+   - Pratique o uso do Scanner para ler diferentes tipos de dados fornecidos pelo usuário.
+
+4. Estruturas de Dados: Vetores e Matrizes
+   - Aprenda a declarar e inicializar arrays unidimensionais (vetores) e bidimensionais (matrizes) em Java.
+   - Entenda a diferença entre vetores e matrizes e quando usar cada um.
+
+5. Iteração sobre Arrays:
+   - Pratique a iteração sobre vetores e matrizes usando loops for e for-each.
+   - Estude a iteração aninhada para acessar elementos de uma matriz.
+
+6. Operações com Arrays:
+   - Aprenda a acessar elementos específicos de um array utilizando índices.
+   - Pratique operações básicas como calcular a soma dos elementos da diagonal principal de uma matriz.
+
+7. Impressão de Resultados:
+   - Saiba como formatar e imprimir resultados de cálculos feitos com arrays.
+   - Pratique a impressão de matrizes para verificar sua estrutura e conteúdo.
+
+8. Exemplos Práticos:
+   - Desenvolva exemplos práticos como calcular a soma dos elementos de um vetor e imprimir uma matriz.
+   - Crie programas que realizem diferentes operações com matrizes, como transposição e cálculo de determinante.
+
+9. Recursos Adicionais:
+   - Consulte a [Documentação Oficial do Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html) para aprofundar seus conhecimentos.
+   - Assista a tutoriais e vídeos sobre arrays e matrizes em Java no YouTube.
+
+10. Prática Recomendada:
+    - Criação de Programas com Matrizes: Crie programas que realizem diferentes operações com matrizes, como transposição, cálculo de determinante, e soma de outras diagonais.
+    - Exercícios de Iteração: Pratique a iteração sobre vetores e matrizes usando loops for e for-each.
+
+Desafios
+--------
+1. Transpor uma Matriz: Escreva um programa que leia uma matriz e imprima sua transposta.
+2. Maior Elemento da Matriz: Escreva um programa que encontre o maior elemento em uma matriz.
