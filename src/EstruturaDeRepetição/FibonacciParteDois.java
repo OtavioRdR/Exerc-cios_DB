@@ -1,3 +1,5 @@
+package EstruturaDeRepetição;
+
 import java.util.Scanner;
 
 public class FibonacciParteDois {
@@ -5,7 +7,7 @@ public class FibonacciParteDois {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Digite um numero para ser calculado a série de Fibonacci: ");
+        System.out.print("Digite um numero para ser calculado a série de EstruturaDeRepetição.Fibonacci: ");
         int limitador = scanner.nextInt();
 
         int numF1 = 0;

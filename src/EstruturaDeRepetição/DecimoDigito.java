@@ -1,3 +1,5 @@
+package EstruturaDeRepetição;
+
 import java.util.Scanner;
 
 public class DecimoDigito {

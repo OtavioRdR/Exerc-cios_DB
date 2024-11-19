@@ -1,3 +1,5 @@
+package ExercíciosBásicos;
+
 public class ProdutosComDesconto {
     public static void main(String[] args) {
 

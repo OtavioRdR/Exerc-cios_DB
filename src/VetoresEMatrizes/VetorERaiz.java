@@ -1,3 +1,5 @@
+package VetoresEMatrizes;
+
 import java.util.Scanner;
 
 public class VetorERaiz {

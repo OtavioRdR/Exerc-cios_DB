@@ -1,3 +1,5 @@
+package EstruturaDeRepetição;
+
 public class TabuadaDB {
 
     public static void main(String[] args) {
