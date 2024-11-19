@@ -55,7 +55,7 @@ public class SupermercadoBoa {
                 System.out.println("estoque insuficiente para o produto: " + produto.getNome());
             }
         }
-        
+
         public double getValorTotalDoPedido() {
             return valorTotalDoPedido;
         }
